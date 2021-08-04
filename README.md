@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shashidwivedi
-- 👀 I make apps in React and Vue.
-- 🎢 I’m currently on a roller coaster ride with JavaScript and React
+- 👋 Hi, I’m Shashi
+- 👀 I make apps in React
+- 🎢 I love making UIs from designs
 - 📫 You can reach me on [Twitter](https://twitter.com/shashidwee) or [LinkedIn](https://www.linkedin.com/in/shashirdwivedi/)
 - 🌐 You can view my Portfolio [here](https://shashidwivedi.me/)
 
