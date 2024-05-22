@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shashi
 - 👀 I make web apps
-<!---- 🎢 --->
 - 📫 You can reach me on [Twitter](https://twitter.com/shashidwee) or [LinkedIn](https://www.linkedin.com/in/shashirdwivedi/)
 - 🌐 Site coming soon
 
